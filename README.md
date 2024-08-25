@@ -17,6 +17,7 @@ This repository contains a data pipeline built using Apache Airflow using Astro 
 
 After the transformation step using dbt models, the raw data is structured into a star schema to optimize it for analytical queries.
 The schema consists of the following tables:
+
 Fact Table:
   - fct_invoices
 
@@ -34,13 +35,17 @@ This star schema simplifies querying for reports and analytics by organizing dat
 6. Metabase Integration:               The processed data is made available for visualization and analysis in Metabase.
 
 ## Tools and Technologies Used
-Apache Airflow:                     Workflow orchestration
-Astro CLI:                          Local development of the Airflow pipeline
-SODA:                               Data quality checks
-dbt:                                Data transformation
-Metabase:                           Data visualization and reporting
+
+- Apache Airflow:                     Workflow orchestration
+- Astro CLI:                          Local development of the Airflow pipeline
+- SODA:                               Data quality checks
+- dbt:                                Data transformation
+- Metabase:                           Data visualization and reporting
 
 ## Future Enhancements
+
 Expanding quality checks with additional rules and validations.
+
 Incorporating more data sources for a comprehensive data analysis.
+
 Optimization of dbt models for performance improvements.
