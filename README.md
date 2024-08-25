@@ -4,7 +4,8 @@ This repository contains a data pipeline built using Apache Airflow using Astro 
 
 # Complete Flow
 
-<img width="699" alt="image" src="https://github.com/user-attachments/assets/167dab6c-4868-4dcf-85c6-fe5454664281">
+<img width="981" alt="image" src="https://github.com/user-attachments/assets/db17fee6-086d-4d4a-a74d-14f25d45f56e">
+
 
 # The key components of the pipeline are:
 
