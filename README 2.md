@@ -1,4 +1,4 @@
-# Data-Pipeline-with-Apache-Airflow
+# Data-Pipeline-with-Apache-Airflow-GCP
 
 This repository contains a data pipeline built using Apache Airflow using Astro CLI. The pipeline automates the processing of an online retail dataset, ensuring data quality and preparing it for reporting in Metabase.
 
